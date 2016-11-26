@@ -1,11 +1,9 @@
-# Databaso
+# Bash Database Script 
 
 
-Databaso’s GUIDE
 
 by
 Abdelsalam Abbas 
-
 
 Welcome to my guide for DATABASO’s script
 this is a bash shell script to create simple database
